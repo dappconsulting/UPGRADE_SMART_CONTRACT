@@ -1,0 +1,10 @@
+(await boxV2.retrieve()).toString()
+await boxV2.increment()
+(await boxV2.retrieve()).toString()
+const boxV2 = await BoxV2.attach("0xe39EbA32DB86188CdD4f1E3410A1c72A6F93fA28")
+const BoxV2 = await ethers.getContractFactory("BoxV2")
+const BoxV2 = await ethers.getContractFactory
+clear
+(await box.retrieve()).toString()
+const box =  await Box.attach("0xe39EbA32DB86188CdD4f1E3410A1c72A6F93fA28")
+const Box = await ethers.getContractFactory("Box")
